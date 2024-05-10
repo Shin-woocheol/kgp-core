@@ -1,0 +1,27 @@
+Date: 2024-05-04 13:44:50
+Python_File: naive.py
+Run_Time: 17.9688
+KG_Time: 3.1908
+Init_Time: 3.1962
+Main_Time: 14.7725
+N^g_Time: 14.5941
+N^g_Count: 18570
+Average_N^g_Length: 103.9058
+Average_Nb_Length: 452.8686
+Average_tot_occur: 4806.6662
+NodeLB_Time: N/A
+NodeLB_Count: N/A
+Less_k_NodeLB_Success: N/A
+Less_k_NodeLB_Fail: N/A
+Ge_k_NodeLB_Fail: N/A
+EdgeLB_Time: N/A
+EdgeLB_Count: N/A
+Less_k_EdgeLB_Success: N/A
+Less_k_EdgeLB_Fail: N/A
+Ge_k_EdgeLB_Fail: N/A
+Average_frac_edge: 1.0000
+num_kg_node: 1570
+num_kg_edge: 83105
+num_remain_node: 761
+num_remain_edge: 48493
+

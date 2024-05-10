@@ -1,0 +1,54 @@
+Date: 2024-05-09 10:00:41
+Python_File: ASAP.py
+Run_Time: 82.9366
+KG_Time: 53.6501
+Init_Time: 53.7910
+Main_Time: 29.1456
+N^g_Time: 25.3285
+N^g_Count: 77625
+Average_N^g_Length: 66.2214
+Average_Nb_Length: 827.6013
+Average_tot_occur: 1741.6625
+NodeLB_Time: 0.0438
+NodeLB_Count: 14821
+Less_k_NodeLB_Success: 629
+Less_k_NodeLB_Fail: 746
+Ge_k_NodeLB_Fail: 13446
+EdgeLB_Time: 0.1987
+EdgeLB_Count: 97729
+Less_k_EdgeLB_Success: 25398
+Less_k_EdgeLB_Fail: 50852
+Ge_k_EdgeLB_Fail: 21479
+Average_frac_edge: 0.9909
+num_kg_node: 31822
+num_kg_edge: 1280969
+num_remain_node: 5795
+num_remain_edge: 153929
+
+Date: 2024-05-09 10:05:25
+Python_File: ASAP.py
+Run_Time: 82.7161
+KG_Time: 52.6135
+Init_Time: 52.7518
+Main_Time: 29.9643
+N^g_Time: 26.1728
+N^g_Count: 77625
+Average_N^g_Length: 66.2214
+Average_Nb_Length: 827.6013
+Average_tot_occur: 1741.6625
+NodeLB_Time: 0.0456
+NodeLB_Count: 14821
+Less_k_NodeLB_Success: 629
+Less_k_NodeLB_Fail: 746
+Ge_k_NodeLB_Fail: 13446
+EdgeLB_Time: 0.2094
+EdgeLB_Count: 97729
+Less_k_EdgeLB_Success: 25398
+Less_k_EdgeLB_Fail: 50852
+Ge_k_EdgeLB_Fail: 21479
+Average_frac_edge: 0.9909
+num_kg_node: 31822
+num_kg_edge: 1280969
+num_remain_node: 5795
+num_remain_edge: 153929
+

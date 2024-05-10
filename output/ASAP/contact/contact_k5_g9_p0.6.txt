@@ -1,0 +1,27 @@
+Date: 2024-05-06 18:27:12
+Python_File: ASAP.py
+Run_Time: 0.1269
+KG_Time: 0.1182
+Init_Time: 0.1185
+Main_Time: 0.0085
+N^g_Time: 0.0012
+N^g_Count: 34
+Average_N^g_Length: 5.5000
+Average_Nb_Length: 13.2353
+Average_tot_occur: 103.9118
+NodeLB_Time: 0.0000
+NodeLB_Count: 20
+Less_k_NodeLB_Success: 6
+Less_k_NodeLB_Fail: 2
+Ge_k_NodeLB_Fail: 12
+EdgeLB_Time: 0.0000
+EdgeLB_Count: 31
+Less_k_EdgeLB_Success: 5
+Less_k_EdgeLB_Fail: 21
+Ge_k_EdgeLB_Fail: 5
+Average_frac_edge: 0.7730
+num_kg_node: 22
+num_kg_edge: 12704
+num_remain_node: 11
+num_remain_edge: 410
+
