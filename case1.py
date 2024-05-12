@@ -49,10 +49,10 @@ def process_results(base_dir, algorithms, datasets):
                 all_results.append({
                     'data': formatted_dataset_name,
                     'algorithm': display_algorithm_name,
-                    'run_time': run_time,
-                    'kg_time': kg_time,
-                    'main_time': main_time,
-                    'ng_time': ng_time
+                    'value1': run_time,
+                    'value2': kg_time,
+                    'value3': main_time,
+                    'value4': ng_time
                 })
             else:
                 print(f"Warning: {file_path} does not exist.")
