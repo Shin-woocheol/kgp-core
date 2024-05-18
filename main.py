@@ -7,9 +7,8 @@ import functions
 import ASAP
 import naive
 
-# python main.py --k 2 --g 2 --p 0.5 --algorithm naive --network ./dataset/test/network.hyp
-#python main.py --k 1 --g 8 --p 1 --algorithm ASAP --network ./dataset/real/dblp/network.hyp
-#kernprof -l -v main.py -- --k 4 --g 4 --p 1 --algorithm ASAP --network ./dataset/real/dblp/network.hyp
+# python main.py --k 5 --g 5 --p 0.8 --algorithm naive --network ./dataset/real/house_bills/network.hyp
+# python main.py --k 30 --g 30 --p 0.8 --algorithm ASAP --network ./dataset/real/house_bills/network.hyp
 def get_base(file_path):
     path = os.path.dirname(file_path)
     return path+'/'
