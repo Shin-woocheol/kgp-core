@@ -14,10 +14,10 @@ The implementation includes two algorithms for computing the (k,g,p)-core of a h
   - k : g-neighbour size constraint
   - g : common hyperedge constraint
   - p : edge fraction constraint
-  - algorithm type: naive(NPA) or ASAP
+  - Algorithm type: naive(NPA) or ASAP
   - Path of the hypergraph data
 
-example code
+Example code
 ```
 python main.py --k 5 --g 5 --p 0.8 --algorithm naive --network ./dataset/real/house_bills/network.hyp
 python main.py --k 30 --g 30 --p 0.8 --algorithm ASAP --network ./dataset/real/house_bills/network.hyp
